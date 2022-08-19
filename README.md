@@ -9,7 +9,7 @@
 [Определение выгодного тарифа для телеком компании](https://github.com/I-Prokofev/Yandex.Practicum_projects/tree/main/%D0%A1ellular%20operator%20tariffs%20analysis) | Анализ поведения клиентов оператора сотовой связи и поиск оптимального тарифа | Pandas, Matplotlib, NumPy, SciPy
 [Изучение закономерностей, определяющих успешность игр](https://github.com/I-Prokofev/Yandex.Practicum_projects/tree/main/Game%20sales%20data%20analysis) | Иccледование исторических данных о продажах компьютерных игр, оценок пользователей и экспертов, жанров и платформ для выявиения закономерностей, определяющих успешность игры  | Pandas, NumPy, Matplotlib, Seaborn, Scipy
 Исследование данных об инвестиции венчурных фондов в компании-стартапы | Продготовка различныъ выгрузок из базы данных, хранящей информацию о венчурных фондах и инвестициях в компании-стартапы | SQL, PostgreSQL
-[Анализ убытков развлекательного приложения](https://github.com/I-Prokofev/Yandex.Practicum_projects/tree/main/Mobile%20app%20loss%20analysis) | Выявление причин убытков для бизнеса развлекательного приложения | Pandas, Matplotlib
+[Анализ убытков развлекательного приложения](https://github.com/I-Prokofev/Yandex.Practicum_projects/tree/main/Mobile%20app%20loss%20analysis) | Выявление причин убытков для бизнеса развлекательного приложения | Pandas, NumPy, Matplotlib
 8 | | 
 9 | | 
 10 | |
