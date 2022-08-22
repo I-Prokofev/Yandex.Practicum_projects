@@ -3,6 +3,7 @@
 ## Данные
 
 База данных с информацией о венчурных фондах и инвестициях в компании-стартапы. 
+
 [Схема базы данных](https://github.com/I-Prokofev/Yandex.Practicum_projects/blob/main/Investment%20data%20research/ER%20diagram.png).
 
 Таблица _acquisition_ с информацией о покупках одних компаний другими:
