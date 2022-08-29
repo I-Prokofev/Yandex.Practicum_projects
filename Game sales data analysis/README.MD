@@ -25,4 +25,6 @@
 
 _Pandas_, _NumPy_, _Matplotlib_, _Seaborn_,  _Scipy_
 
+## Статус проекта
 
+Завершен
