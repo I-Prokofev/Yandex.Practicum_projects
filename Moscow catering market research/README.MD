@@ -19,4 +19,6 @@
 
 _Pandas_, _Matplotlib_, _Plotly_, _Seaborn_, _Requests_
 
+## Статус проекта
 
+Завершен
