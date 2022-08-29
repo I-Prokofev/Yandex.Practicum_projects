@@ -49,4 +49,6 @@
 
 _Pandas_, _Matplotlib_, _NumPy_, _Seaborn_, _SciPy_
 
+## Статус проекта
 
+Завершен
