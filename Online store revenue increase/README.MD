@@ -33,4 +33,6 @@
 
 _Pandas_, _Matplotlib_, _Math_, _Numpy_, _SciPy_
 
+## Статус проекта
 
+Завершен
