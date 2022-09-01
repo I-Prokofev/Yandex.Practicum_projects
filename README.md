@@ -1,5 +1,5 @@
 # Мои проекты
-Данные проекты были выполнены в ходе обучения профессии "Аналитик данных" на платформе "Яндекс.Практикум":
+Данные проекты были выполнены в ходе обучения профессии "Аналитик данных" на платформе ["Яндекс.Практикум"](https://praktikum.yandex.ru/):
 
 Название проекта |	Описание	| Используемые библиотеки и инструменты
 -----------------|------------|------------------------
@@ -13,3 +13,4 @@
 [Увеличение выручки интернет магазина](https://github.com/I-Prokofev/Yandex.Practicum_projects/tree/main/Online%20store%20revenue%20increase) | Приоритезация гипотез, оценка результатов A/B-тестирования | Pandas, Matplotlib, Math, Numpy, SciPy
 [Исследование рынка общественного питания Москвы](https://github.com/I-Prokofev/Yandex.Practicum_projects/tree/main/Moscow%20catering%20market%20research) | Исследование рынка общественного питания на основе открытых данных и подготовка презентации для инвесторов | Pandas, Matplotlib, Plotly, Seaborn, Requests
 [Оценка поведения пользователей мобильного приложения](https://github.com/I-Prokofev/Yandex.Practicum_projects/tree/main/Mobile%20app%20users%20behavior%20analysis) | Анализ воронки продаж и оценка результатов A/A/B-тестирования  | Pandas, Matplotlib, Math, Numpy, Plotly, Seaborn, Scipy
+[Дашборд для Яндекс.Дзен](https://github.com/I-Prokofev/Yandex.Practicum_projects/tree/main/Dashboard%20for%20Yandex.Zen) | Дашборд для анализа взаимодействия пользователей с карточками сервиса Яндекс.Дзен | Python, SQLAlchemy, PostgreSQL, dash, Tableau
