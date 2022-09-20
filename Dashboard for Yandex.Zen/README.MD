@@ -19,7 +19,7 @@ _Python_, _SQLAlchemy_, _PostgreSQL_, _dash_, _Tableau_
 
 ## Теги:
 
-bi analyst, bi-аналитик, аналитик данных, data analyst, разработчик системы отчетности, reporting analyst
+дашборд, пайплайн, Yandex.Cloud, удаленный сервер
 
 ## Статус проекта:
 
