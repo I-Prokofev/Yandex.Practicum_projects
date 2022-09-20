@@ -34,7 +34,7 @@ _Pandas_, _Matplotlib_, _Seaborn_, _Scikit-learn_, _Scipy_
 
 ## Теги:
 
-Машинное бучение, Machine Learning, дендрограмма, KMeans, RandomForestClassifier, LogisticRegression
+Машинное Обучение, Machine Learning, дендрограмма, KMeans, RandomForestClassifier, LogisticRegression
 
 ## Статус проекта:
 
