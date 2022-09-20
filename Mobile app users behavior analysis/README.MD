@@ -22,6 +22,7 @@ _Pandas_, _Matplotlib_, _Math_, _Numpy_, _Plotly_, _Seaborn_, _Scipy_
 
 ## Теги:
 
+A/B-тест, визуализация, статистический тест
 аналитик мобильного приложения, аналитик продукта, продуктовый аналитик, product analyst, mobile app analyst
 
 ## Статус проекта:
