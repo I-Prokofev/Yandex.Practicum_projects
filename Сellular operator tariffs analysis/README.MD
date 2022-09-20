@@ -55,8 +55,7 @@ _Pandas_, _Matplotlib_, _NumPy_, _Seaborn_, _SciPy_
 
 ## Теги:
 
-
-аналитик, analyst, аналитик данных, data analyst
+обработка данных, histogram, boxplot, статистический тест, критерий Стьюдента
 
 ## Статус проекта:
 
