@@ -41,7 +41,7 @@ _Pandas_, _Matplotlib_
 
 ## Теги:
 
-маркетинговый аналитик, фрод аналитик, fraud analyst, data analyst, аналитик данных, аналитик, analyst,
+обработка данных, histogram, boxplot, scattermatrix, категоризация, scatterplot,  фрод-мониторинг
 
 ## Статус проекта:
 
