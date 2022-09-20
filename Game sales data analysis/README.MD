@@ -30,7 +30,7 @@ _Pandas_, _NumPy_, _Matplotlib_, _Seaborn_,  _Scipy_
 
 ## Теги:
 
-игровой аналитик, game analyst, аналитик игрового проекта, продуктовый аналитик, product analyst, gamedev analyst, аналитик геймдев
+обработка данных, histogram, boxplot, статистический тест, критерий Стьюдента, piechart
 
 ## Статус проекта:
 
