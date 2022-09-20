@@ -24,7 +24,7 @@ _Pandas_, _Matplotlib_, _Plotly_, _Seaborn_, _Requests_
 
 ## Теги:
 
-data analyst, аналитик данных, аналитик, analyst
+обработка данных, визуализация данных
 
 ## Статус проекта:
 
