@@ -110,7 +110,7 @@ _SQL_, _PostgreSQL_
 
 ## Теги:
 
-аналитик sql, sql analyst, аналитик, analyst, reporting analyst
+обработка данных, выгрузка данных, SQL
 
 ## Статус проекта:
 
