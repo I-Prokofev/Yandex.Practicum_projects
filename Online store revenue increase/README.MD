@@ -38,7 +38,7 @@ _Pandas_, _Matplotlib_, _Math_, _Numpy_, _SciPy_
 
 ## Теги:
 
-продуктовый аналитик, product analyst, аналитик продукта, product data analyst
+A/B-тест, статистический тест, фреймворк, RICE, ICE
 
 ## Статус проекта:
 
