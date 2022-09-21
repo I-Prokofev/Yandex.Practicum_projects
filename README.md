@@ -1,6 +1,6 @@
 # Проекты по аналитике данных
 
-![Яндекс.Практикум]([http://url/to/img.png](https://drive.google.com/file/d/1y3d16n_mytMEgz5sygEWyYKSm5YLVeHq/view?usp=sharing))
+![Яндекс.Практикум]([[http://url/to/img.png](https://drive.google.com/file/d/1y3d16n_mytMEgz5sygEWyYKSm5YLVeHq/view?usp=sharing)](https://praktikum.yandex.ru/)
 
 Портфолио проектов, которые были реализованы в ходе обучения профессии "Аналитик данных" на платформе ["Яндекс.Практикум"](https://praktikum.yandex.ru/). 
 Представление проектов: *iPython Notebooks + readme markdown-файлы*.
