@@ -1,5 +1,7 @@
 # Дашборд для Яндекс.Дзен
 
+[![Дашборд для Яндекс.Дзе](https://github.com/I-Prokofev/Yandex.Practicum_projects/blob/main/Dashboard%20for%20Yandex.Zen/Dashboard_Yandex.Zen.jpg)](https://public.tableau.com/app/profile/igor6948/viz/DashboardforYandex_Zen_16617825930170/Dashboard?publish=yes)
+
 ## Данные:
 
 Данные со статистикой взаимодействия пользователей с карточками статей.
