@@ -7,7 +7,7 @@
 
 Название проекта |	Описание	| Используемые библиотеки и инструменты
 -----------------|------------|------------------------
-[Музыка больших городов](https://github.com/I-Prokofev/Yandex.Practicum_projects/tree/main/Big%20cities%20music) |	Сравнение предпочтений пользователей Яндекс.Музыки из Москвы и Санкт-Петербурга в зависимости от времени (утро и вечер) и дня недели (понедельник, среда, пятница)	| Pandas
+[Исследование данных “Яндекс.Музыка”](https://github.com/I-Prokofev/Yandex.Practicum_projects/tree/main/Big%20cities%20music) |	Сравнение предпочтений пользователей Яндекс.Музыки из Москвы и Санкт-Петербурга в зависимости от времени (утро и вечер) и дня недели (понедельник, среда, пятница)	| Pandas
 [Исследование надёжности заёмщиков: анализ банковских данных](https://github.com/I-Prokofev/Yandex.Practicum_projects/tree/main/Borrowers%20reliability%20analysis) | Исследование влияния семейного положения и количества детей клиентов банка на факт возврата кредита в срок | Pandas
 [Продажа квартир в Санкт-Петербурге: анализ рынка недвижимости](https://github.com/I-Prokofev/Yandex.Practicum_projects/tree/main/Real%20estate%20market%20analysis) | Исследование данных сервиса Яндекс.Недвижимость для детерминации рыночной стоимость объектов недвижимости и типичных параметров квартир | Pandas, Matplotlib
 [Определение выгодного тарифа для телеком компании](https://github.com/I-Prokofev/Yandex.Practicum_projects/tree/main/%D0%A1ellular%20operator%20tariffs%20analysis) | Анализ поведения клиентов оператора сотовой связи и поиск оптимального тарифа | Pandas, Matplotlib, NumPy, Seaborn, SciPy
