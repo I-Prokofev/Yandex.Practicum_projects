@@ -1,6 +1,6 @@
 # Проекты по аналитике данных
 
-![[Яндекс.Практикум](https://github.com/I-Prokofev/Yandex.Practicum_projects/blob/main/Yandex%20Practicum_logo.jpeg)](https://praktikum.yandex.ru/)
+[![Яндекс.Практикум](https://github.com/I-Prokofev/Yandex.Practicum_projects/blob/main/Yandex%20Practicum_logo.jpeg)](https://praktikum.yandex.ru/)
 
 Портфолио проектов, которые были реализованы в ходе обучения профессии "Аналитик данных" на платформе ["Яндекс.Практикум"](https://praktikum.yandex.ru/). 
 Представление проектов: *iPython Notebooks + readme markdown-файлы*.
