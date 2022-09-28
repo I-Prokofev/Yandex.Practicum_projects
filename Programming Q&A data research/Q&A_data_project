@@ -1,0 +1,11 @@
+-- #1 Найдем количество вопросов, которые набрали больше 300 очков или как минимум 100 раз были добавлены в «Закладки»:
+WITH question_id AS 
+(SELECT id
+FROM stackoverflow.post_types
+WHERE type = 'Question')
+
+SELECT COUNT(id)
+FROM stackoverflow.posts -- название таблицы и условие``
+WHERE post_type_id = (SELECT id
+FROM stackoverflow.post_types
+WHERE type = 'Question') AND (score > 300 OR favorites_count >= 100);
